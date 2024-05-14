@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-mergeDebugResources-30:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-main-33:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-mergeDebugResources-30:\\layout\\activity_permission.xml",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-main-33:\\layout\\activity_permission.xml"
+    },
+    {
+        "merged": "com.example.contacts.app-mergeDebugResources-30:/layout/activity_permission.xml",
+        "source": "com.example.contacts.app-main-33:/layout/activity_permission.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-mergeDebugResources-30:\\layout\\item_contacts.xml",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-main-33:\\layout\\item_contacts.xml"
+    },
+    {
+        "merged": "com.example.contacts.app-mergeDebugResources-30:/layout/activity_splash.xml",
+        "source": "com.example.contacts.app-main-33:/layout/activity_splash.xml"
+    }
+]

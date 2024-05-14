@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable app_logo
+drawable contact_logo
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn_permission
+id iv_app_logo
+id rcvMain
+id tv_app_name
+id tv_cont_name
+id tv_cont_number
+id tv_loading
+layout activity_main
+layout activity_permission
+layout activity_splash
+layout item_contacts
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string allow_permission
+string app_name
+string contacts
+string loading
+string name
+string number
+style Theme.Contacts
+xml backup_rules
+xml data_extraction_rules

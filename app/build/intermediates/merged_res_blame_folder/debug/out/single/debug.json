@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "com.example.contacts.app-merged_res-31:/drawable_app_logo.png.flat",
+        "source": "com.example.contacts.app-main-33:/drawable/app_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-merged_res-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.contacts.app-merged_res-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.contacts.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-merged_res-31:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-main-33:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.contacts.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.contacts.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.contacts.app-merged_res-31:/layout_activity_splash.xml.flat",
+        "source": "com.example.contacts.app-main-33:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-merged_res-31:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-main-33:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-merged_res-31:\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-pngs-27:\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.contacts.app-merged_res-31:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.contacts.app-main-33:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.contacts.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.contacts.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-merged_res-31:\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-pngs-27:\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-merged_res-31:\\layout_item_contacts.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-main-33:\\layout\\item_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-merged_res-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.contacts.app-merged_res-31:/layout_activity_permission.xml.flat",
+        "source": "com.example.contacts.app-main-33:/layout/activity_permission.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.contacts.app-merged_res-31:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.contacts.app-main-33:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.contacts.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.contacts.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.contacts.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.contacts.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.contacts.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.contacts.app-main-33:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.contacts.app-merged_res-31:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.contacts.app-main-33:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-merged_res-31:\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-pngs-27:\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-merged_res-31:\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-pngs-27:\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-merged_res-31:\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-pngs-27:\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-merged_res-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.contacts.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.contacts.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.contacts.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.contacts.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.contacts.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.contacts.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.contacts.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.contacts.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-merged_res-31:\\layout_activity_permission.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-main-33:\\layout\\activity_permission.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-merged_res-31:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-main-33:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-merged_res-31:\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-pngs-27:\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.contacts.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.contacts.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-merged_res-31:\\drawable_contact_logo.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-main-33:\\drawable\\contact_logo.png"
+    },
+    {
+        "merged": "com.example.contacts.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.contacts.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.contacts.app-merged_res-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.contacts.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.contacts.app-merged_res-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.contacts.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-merged_res-31:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-pngs-27:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.contacts.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.contacts.app-main-33:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.2\\com.example.contacts.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    }
+]
